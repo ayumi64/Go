@@ -1,0 +1,9 @@
+pytest
+pytest-html
+allure-pytest
+PyYAML
+selenium
+zmail
+
+
+#pip install -r requirements.txt
