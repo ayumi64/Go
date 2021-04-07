@@ -23,6 +23,7 @@ GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go get -u github.com/tal-tech/
 
 
 
-可以根据api文件生成前端需要的Java, TypeScript, Dart, JavaScript代码goctl api java -api greet.api -dir greet
+可以根据api文件生成前端需要的Java, TypeScript, Dart, JavaScript代码
+goctl api java -api greet.api -dir greet
 goctl api dart -api greet.api -dir greet
 ...
