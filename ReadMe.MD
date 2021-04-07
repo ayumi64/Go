@@ -4,7 +4,7 @@
 
 # Go Zero
 
-https://www.yuque.com/tal-tech/go-zero
+https://zeromicro.github.io/go-zero/
 
 ### 安装
 
